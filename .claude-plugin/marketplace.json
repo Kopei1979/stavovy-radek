@@ -1,0 +1,11 @@
+{
+  "name": "stavovy-radek",
+  "owner": { "name": "Kopei1979" },
+  "plugins": [
+    {
+      "name": "stavovy-radek",
+      "source": "./",
+      "description": "Stavový řádek pro Claude Code v terminálu i v aplikaci Claude: model, zaplnění kontextu, odpočet mezipaměti, limity předplatného, projekt, worktree a scratch složka."
+    }
+  ]
+}
